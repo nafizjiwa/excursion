@@ -1,11 +1,35 @@
 body {
     background-color: black;
     text-align: center;
+    color: white;
+   
 }
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
+}
+.main-p {
+    font-size: 42px;
+    font-family: Verdana;
+    font-weight: 300;
+}
+    
+.excursion-link {
+    text-decoration: none;
+    color: aquamarine;
+    font-size: 20px;
+}
+.camp-img {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey !important;
+}
+footer {
+    text-align: right;
+    color: grey;
+    font-size: 20px;
+    font-family: Verdana;
 }
